@@ -1,0 +1,14 @@
+layout_spectrum: 0.4478358163032681
+typography_spectrum: 0.6000842924695462
+color:
+  brandStrength: 0.6088323243893683
+  lightness: 0.2921660190913826
+  saturation: 0.812919492367655
+  rhythmicContrast: 0.8835066328756511
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 'wellnessworld '
